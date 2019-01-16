@@ -3,6 +3,6 @@ Scrapping hiver websiite home page
 
 
 #Using NPM
-npm i
+$ npm i
 
 $ node scrape
