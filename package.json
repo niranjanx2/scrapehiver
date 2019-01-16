@@ -1,0 +1,16 @@
+{
+  "name": "scrapping",
+  "version": "1.0.0",
+  "description": "scrape Hiver website",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "node scrape"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
